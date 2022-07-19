@@ -1,6 +1,13 @@
 - 👋 Hai kami @pbk-fkom
+Kami memiliki 6 Divisi 
+- 👨‍👩‍👧‍👧 Badan Pengurus Harian
+- 🧘 Pengendali Internal
+- 🍃 Pengembangan Sumber Daya Manusia
+- 🧑‍💻 Akademis dan Keilmuan
+- 👥 Hubungan Eksternal
+- 📸 Media dan Informasi
 
-Kami mempunyai 3 bidang Penjurusan yaitu
+dan kami mempunyai 3 bidang Penjurusan yaitu
 
 - 👨‍💻 Front End
 - 💻 Back End
