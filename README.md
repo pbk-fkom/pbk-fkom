@@ -1,17 +1,21 @@
 ## Hai kami @pbk-fkom
-Kami memiliki 6 Divisi 
-- 👨‍👩‍👧‍👧 Badan Pengurus Harian
-- 🧘 Pengendali Internal
-- 🍃 Pengembangan Sumber Daya Manusia
-- 🧑‍💻 Akademis dan Keilmuan
-- 👥 Hubungan Eksternal
-- 📸 Media dan Informasi
+>**DIVISI**
+1. Badan Pengurus Harian
+2. Pengendali Internal
+3. Pengembangan Sumber Daya Manusia
+4. Akademis dan Keilmuan
+5. Hubungan Eksternal
+6. Media dan Informasi
 
-dan kami mempunyai 3 bidang Penjurusan yaitu
+>**PENJURUSAN**
 
 - 👨‍💻 Front End
 - 💻 Back End
 - 🔐 Web Security 
+
+## Follow Sosial Media Kami !
+- [Facebook](https://facebook.com/pbk.fkom.uniku/).
+- [Instagram](https://instagram.com/pbkfkom_official/).
 
 <!---
 pbk-fkom/pbk-fkom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
