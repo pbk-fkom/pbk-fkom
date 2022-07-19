@@ -1,6 +1,6 @@
 - 👋 Hai kami @pbk-fkom
 
-Kami mempunyai 3 bidang Penjurusan yaitu
+Kami mempunyai 3 bidang Penjurusan yaitu :
 
 - 👨‍💻 Front End
 - 💻 Back End
