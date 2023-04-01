@@ -1,6 +1,6 @@
 
 ## Hai kami @pbk-fkom
->**DIVISI**
+>**STRUKTURAL**
 1. Badan Pengurus Harian
 2. Pengendali Internal
 3. Akademis dan Keilmuan
