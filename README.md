@@ -3,16 +3,15 @@
 >**DIVISI**
 1. Badan Pengurus Harian
 2. Pengendali Internal
-3. Pengembangan Sumber Daya Manusia
-4. Akademis dan Keilmuan
-5. Hubungan Eksternal
-6. Media dan Informasi
+3. Akademis dan Keilmuan
+4. Hubungan Eksternal
+5. Media dan Informasi
 
 >**PENJURUSAN**
 
 - 👨‍💻 Front End
 - 💻 Back End
-- 🔐 Web Security 
+- 🔐 Networking
 
 ## Follow Sosial Media Kami !
 - [Facebook](https://facebook.com/pbk.fkom.uniku/).
